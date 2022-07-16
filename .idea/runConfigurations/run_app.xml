@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="run-app" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="in.jaxer.Application" />
+    <module name="file-guard" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
